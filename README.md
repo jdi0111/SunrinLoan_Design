@@ -1,4 +1,4 @@
-# SunrinLoan_Design
+﻿# SunrinLoan_Design
 Sunrin Mobile Contest
 
 ## FILES
@@ -22,6 +22,10 @@ Sunrin Mobile Contest
 
 - `logo_login.png`: 로그인 화면 상단중앙에서 표출되는 선린론 아이콘 입니다.
 - `ic_fb_login.png'`: 페이스북 로그인 버튼입니다.
+
+###  RESOURCE - SIGN_UP
+
+- `acc_logo.png` : 가입 화면의 선린론 로고 입니다.
 
 ###  RESOURCE - MAIN
 
